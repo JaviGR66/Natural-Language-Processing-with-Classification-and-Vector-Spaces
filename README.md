@@ -92,4 +92,4 @@ This is the fourth course in the Natural Language Processing Specialization.
 
 # Specialization Completion Certificate
 
-![Certificate](https://i.ibb.co/ZVRj8DS/Certificate.png)
+![Certificate](https://user-images.githubusercontent.com/74552155/223673649-c36f630c-f766-4168-89b5-6b99671cf475.PNG)
